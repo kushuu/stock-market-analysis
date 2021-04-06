@@ -1,0 +1,6 @@
+numpy==1.20.1
+pandas==1.2.3
+matplotlib==3.3.4
+Quandl==3.6.1
+PyQt5==5.15.4
+pandastable==0.12.2.post1
